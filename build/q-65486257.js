@@ -1,0 +1,1 @@
+import{m as e,u as o,_ as t}from"./q-1faba9e7.js";const s=e(o(()=>t(()=>import("./q-977108e9.js"),["build/q-977108e9.js","build/q-1faba9e7.js","build/q-24155a4e.css"]),"s_xnLZHKAub6k")),a={title:"Resume"};export{s as default,a as head};
