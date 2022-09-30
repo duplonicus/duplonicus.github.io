@@ -1,0 +1,1 @@
+import{u as t,_ as r,X as o}from"./q-856e01f2.js";import{q as e}from"./q-d1bbc6bc.js";const i=e(t(()=>r(()=>import("./q-3313d809.js"),["build/q-3313d809.js","build/q-d211697c.js","build/q-1f5f1391.js"]),"s_r35YTGxHeL0")),s=()=>o("div",{children:[o("h1",{children:"The component below is a React MUI button:"}),o(i,{})]});export{s as s_i4frY0Pt5lk};
