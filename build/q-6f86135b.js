@@ -1,1 +1,0 @@
-import{m as i,u as s,_ as e}from"./q-20ca6d12.js";function a(t,r){return i(s(()=>e(()=>import("./q-77ca5881.js"),["build/q-77ca5881.js","build/q-20ca6d12.js","build/q-41b52f07.css"]),"s_zH94hIe0Ick",[r,t]))}const c=t=>{const r={};return Object.keys(t).forEach(o=>{o.startsWith("client:")||(r[o]=t[o])}),r};export{c as f,a as q};
