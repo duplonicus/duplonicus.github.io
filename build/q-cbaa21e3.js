@@ -1,1 +1,0 @@
-import{m as o,u as t,_ as e}from"./q-a3b7a4d8.js";const a=o(t(()=>e(()=>import("./q-eeaac6d5.js"),["build/q-eeaac6d5.js","build/q-a3b7a4d8.js","build/q-485caf08.css"]),"s_xYL1qOwPyDI")),i={title:"Welcome to My Portfolio"};export{a as default,i as head};
