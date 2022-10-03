@@ -1,0 +1,1 @@
+import{m as o,u as t,_ as e}from"./q-a3b7a4d8.js";const r=o(t(()=>e(()=>import("./q-f5ff044a.js"),["build/q-f5ff044a.js","build/q-a3b7a4d8.js","build/q-485caf08.css","build/q-9989d6d4.js"]),"s_Sx5YznQkrwI")),a={title:"Flower"};export{r as default,a as head};
